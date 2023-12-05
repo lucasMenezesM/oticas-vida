@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.limit-margin{
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+h2{
+  text-transform: uppercase;
+  font-size: 36px;
+  text-align: center;
+}
+
+.App{
+    color: #636363;
+    font-family: sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: #636363;
+}
